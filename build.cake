@@ -1,4 +1,4 @@
-var target = Argument("target", "Test");
+ var target = Argument("target", "Test");
 var configuration = Argument("configuration", "Release");
 
 //////////////////////////////////////////////////////////////////////
